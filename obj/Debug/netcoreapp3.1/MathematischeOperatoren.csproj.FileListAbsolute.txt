@@ -1,0 +1,13 @@
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\bin\Debug\netcoreapp3.1\MathematischeOperatoren.exe
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\bin\Debug\netcoreapp3.1\MathematischeOperatoren.deps.json
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\bin\Debug\netcoreapp3.1\MathematischeOperatoren.runtimeconfig.json
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\bin\Debug\netcoreapp3.1\MathematischeOperatoren.runtimeconfig.dev.json
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\bin\Debug\netcoreapp3.1\MathematischeOperatoren.dll
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\bin\Debug\netcoreapp3.1\MathematischeOperatoren.pdb
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\obj\Debug\netcoreapp3.1\MathematischeOperatoren.csprojAssemblyReference.cache
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\obj\Debug\netcoreapp3.1\MathematischeOperatoren.AssemblyInfoInputs.cache
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\obj\Debug\netcoreapp3.1\MathematischeOperatoren.AssemblyInfo.cs
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\obj\Debug\netcoreapp3.1\MathematischeOperatoren.csproj.CoreCompileInputs.cache
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\obj\Debug\netcoreapp3.1\MathematischeOperatoren.dll
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\obj\Debug\netcoreapp3.1\MathematischeOperatoren.pdb
+F:\Prgramme\Visual Studio repros\MathematischeOperatoren\MathematischeOperatoren\obj\Debug\netcoreapp3.1\MathematischeOperatoren.genruntimeconfig.cache
